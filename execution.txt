@@ -1,0 +1,1 @@
+python detect_track_UI_v9_lane_extraction.py --source videos/2.mp4 --cfg cfg/yolor_p6.cfg --weights yolor_p6.pt --conf 0.25 --img-size 1280 --view-img
